@@ -1,0 +1,22 @@
+,uid,date,source,city_raw,master_category,sub_category,category,country,city,lat,lon,un_country,macro_region,meso_region,development_level,gdp_per_capita,gdp_volume,hdi,ECI,wiki_population,un_population,population,population_level,text
+1,1_0,11/20/2009,TED,amsterdam,Other,Other,NA,netherlands,amsterdam,52.3666969,4.8945398,netherlands,Europe,Western Europe,Developed economies,54503,9.33708E+11,0.934,1.30343,NA,821752,821752,<1M,"TEDx Amsterdam 2009 Factsheet: 1 day event
+4 challenges for tickets
+20 speakers and musicians
+30 crew members/volunteers
+150 articles in the press
+400 speaker suggestions
+600 guests at the main event
+1.000 visitors to simulcast locations
+2.000 Tweets mentioned #TEDxAms
+4.500 people on the ticket waiting list
+14.000 people watching the web stream
+30.000 visitors to the website Also we"
+2,1_1,11/28/2009,TED,singapore,Other,Other,NA,singapore,singapore,1.2831593,103.8530435,singapore,Asia,South-eastern Asia,Developing economies,96553,5.41878E+11,0.935,1.86534,NA,NA,NA,unknown,NA
+3,1_2,5/27/2009,TED,san francisco,Other,Other,NA,united states,san francisco,37.7749295,-122.4194155,united states,Americas,Northern America,Developed economies,59928,1.94854E+13,0.92,1.75541,NA,870887,870887,<1M,NA
+4,1_3,9/7/2009,TED,homer,Other,Other,NA,united states,homer,59.6425,-151.5483333,united states,Americas,Northern America,Developed economies,59928,1.94854E+13,0.92,1.75541,NA,NA,5697,<1M,NA
+5,1_4,11/14/2009,TED,sao paolo,Other,Other,NA,brazil,são paulo,-23.5505199,-46.6333094,brazil,Americas,South America,Developing economies,15662,3.25514E+12,0.761,0.608252,12252023,12038175,12252023,10M+,"Instilled with the spirit of ideas worth spreading, TED has created a program called TEDx. TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. TEDx Sao Paulo is a nonprofit conference that will bring together more than 30 thinkers from areas of knowledge diverse as technology, science and business, to talk about their best ideas in 5 or 15-minute talks. The theme for this first installment of the event is: What does Brazil have to offer the world now? TEDx Sao Paulo will happen on November 14th, 2009, and it will be free of charge."
+6,1_5,7/28/2009,TED,boston,Other,Other,NA,united states,boston,42.3600825,-71.0588801,united states,Americas,Northern America,Developed economies,59928,1.94854E+13,0.92,1.75541,NA,673184,673184,<1M,"At the inaugural TEDxBoston event, we were inspired by ideas that are shaping the future of industries as diverse as education, energy, and elder care. We saw provocative demos of prototypes that will change the way we commute, care for those in need, and clean the air. We were amazed by products that diagnose diseases and pill caps that remind us to take our meds. We learned how reverse-mentorship and ArtScience culture labs are engaging the next generation of innovators who are reinventing how we work, eat, and have fun. Other highlights included live music, local fare, and our favorites from the TED video archives. We learned how El Sistema USA, winner of the 2009 TED Prize, was beginning to flourish in Boston. And, we were treated to a remarkable finale with Benjamin Zander conducting the Youth Orchestra of the Americas in a breathtaking rendition of Beethoven’s 5th Symphony."
+7,1_6,9/2/2009,TED,minneapolis / st. paul,Other,Other,NA,united states,minnesota,44.9374831,-93.2009998,united states,Americas,Northern America,Developed economies,59928,1.94854E+13,0.92,1.75541,NA,NA,NA,unknown,"TEDxTC is a local Twin Cities (Minneapolis/St. Paul), independently organized TED event. TEDxTC's mission is to bring Twin Cities thought leaders to the global TED Audience. We provide a 'TED Like' experience open to the general public."
+8,1_7,11/14/2009,TED,wexford,Other,Other,NA,united states,wexford,40.6266318,-80.0549768,united states,Americas,Northern America,Developed economies,59928,1.94854E+13,0.92,1.75541,NA,NA,NA,unknown,NA
+9,1_8,5/24/2009,TED,moscow,Other,Other,NA,russia,moscow,55.755826,37.6172999,russia,Europe,Eastern Europe,Transition economies,25767,3.78363E+12,0.824,0.852045,12197596,11918057,12197596,10M+,NA
+10,1_9,9/30/2009,TED,sunderland,Other,Other,NA,united kingdom,sunderland,54.906869,-1.383801,united kingdom,Europe,Northern Europe,Developed economies,44896,2.9658E+12,0.92,1.53259,NA,NA,452934,<1M,NA
